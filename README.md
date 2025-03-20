@@ -28,10 +28,6 @@ In the current verison, the dashboard contains two pages: 1. Overall trends, and
 
 ![screenshot_detailed](img/screenshot_detailed.png)
 
-Below is an embeded Power BI dashboard:
-
-<iframe title="ivi" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzIzNTU0ZDktOGZjOC00NDdjLTg3NjItMGFlOWE4MzEzYWU4IiwidCI6IjA0Y2EyZDBiLTliZmItNDQyYS05MmQwLTEwZTQ0MDQzZjNlNCJ9&pageName=Overall" frameborder="0" allowFullScreen="true"></iframe>
-
 ## TODO
 - In the current version, the dashboard requires the analyst to run the Python code each time data is updated and then manually refresh the Power BI file and reupload to Power BI web service. **Ideally the entire workflow should be automated**.
 - The rough steps to accomplish this are as follows:
